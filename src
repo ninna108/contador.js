@@ -1,0 +1,12 @@
+public class contando
+{
+    public void contar ()
+    {
+        int cont = 1;
+        while(cont<=50)
+        {
+            System.out.println(cont);
+            cont++;
+        }
+    }
+}
